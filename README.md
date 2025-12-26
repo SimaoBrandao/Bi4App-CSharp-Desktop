@@ -2,8 +2,6 @@
 
 Este repositório contém o projeto de demonstração do **Bi4App**, desenvolvido em **C# para ambiente Desktop**, com foco em **testes e validação de funcionalidades**.
 
-> ⚠️ Este projeto não é uma versão final de produção. Ele é destinado apenas para fins de testes, avaliação técnica e validação de comportamento.
-
 ---
 
 ## 🎯 Objetivo
