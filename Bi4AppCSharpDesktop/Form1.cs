@@ -9,6 +9,14 @@ using ZXing;
 
 namespace Bi4AppCSharpDesktop
 {
+    // Bi4App - Projeto de Demonstração (Desktop em C#)
+    // Autor: Simão Brandão
+    // Email: sibrandao2008@gmail.com 
+    // Telemovel: +244 948 49 38 28 
+    // Github: https://github.com/SimaoBrandao/Bi4App-CSharp-Desktop.git
+    // Nuget:  https://www.nuget.org/packages/Bi4App
+    // Data: 09/01/2025 
+
     public partial class Form1 : Form
     {
         public Form1()
