@@ -2,29 +2,44 @@
 
 Este repositório contém o projeto de demonstração do **Bi4App**, desenvolvido em **C# para ambiente Desktop**, com foco em **testes e validação de funcionalidades**.
 
+> ⚠️ Este projeto não é uma versão final de produção. Ele é destinado apenas para fins de testes, avaliação técnica e validação de comportamento.
+
 ---
 
-## Objetivo
+## 🎯 Objetivo
 
 Este projeto é utilizado para:
 
 - testar funcionalidades do Bi4App em ambiente Desktop  
 - validar comportamento da aplicação  
-- apoiar análise técnica
-
-Não é uma versão final de produção.
+- apoiar análise técnica e diagnóstico
 
 ---
 
-## Tecnologias
+## 🧩 Tecnologias
 
-- C# / .NET
-- Aplicação Desktop (WinForms ou WPF)
+- C# / .NET  
+- Aplicação Desktop (WinForms ou WPF)  
 - Visual Studio 2019
 
 ---
 
-## Dependências (DLL)
+## 📦 Pacote NuGet
 
-As bibliotecas necessárias para execução estão na pasta:
+O Bi4App Desktop utiliza o pacote disponível no NuGet:
+
+👉 **Bi4App — Pacote Oficial**  
+https://www.nuget.org/packages/Bi4App
+
+Ou, em Markdown:
+
+[Bi4App no NuGet](https://www.nuget.org/packages/Bi4App)
+
+---
+
+## 📚 Dependências (DLL)
+
+As bibliotecas necessárias para execução encontram-se na pasta:
+
+
 
