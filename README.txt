@@ -1,4 +1,4 @@
-# Bi4App — Projeto de Demonstração (Desktop em C#)
+#Bi4App — Projeto de Demonstração (Desktop em C#)
 
 Este repositório contém o projeto de demonstração do **Bi4App**, desenvolvido em **C# para ambiente Desktop**, com foco em **testes e validação de funcionalidades**.
 
